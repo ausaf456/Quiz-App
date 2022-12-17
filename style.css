@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.opt:hover{
+    color: rgba(255,255,255,.3);
+    background: #1a1a1a;
+    text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px ;
+    cursor: pointer;
+}
+.opt label:hover{
+    color: lightgray;
+    cursor: pointer;
+}
+.opt input:hover{
+    cursor: pointer;
+}
